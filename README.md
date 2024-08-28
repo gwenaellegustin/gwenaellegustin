@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-2024  ○ Work as research assistant at HES-SO Valais Wallis, Institute Energy and Environment, Digitalisation part
-      |
-      |
-      |
-      |
+2024  ○ Work as research assistant at HES-SO Valais Wallis, Institute Energy and Environment, Digitalisation part <br/>
+      | <br/>
+      | <br/>
+      | <br/>
+      | <br/>
 2023  ○ Get my Bachelor of Scien in Business information Technology 🎉
       |
       |

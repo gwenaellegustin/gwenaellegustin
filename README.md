@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 2022 &nbsp; ○ Bachelor loading... <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| React project (PWA) based on a idea of assocation [escolhared](https://www.instagram.com/escolhares) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Project realized with [Océane Tapparel](https://www.linkedin.com/in/oc%C3%A9ane-tapparel-b91745178), [Quentin Flament](https://www.linkedin.com/in/quentin-flament-9b7555195/) and [Matthieu Hagenbuch](https://www.linkedin.com/in/matthieu-hagenbuch/) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Deployed [here](https://vast-hes.netlify.app/) (with fake data) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <br/>

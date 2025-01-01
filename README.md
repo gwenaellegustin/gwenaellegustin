@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[LinkedIn profile ➡️](https://www.linkedin.com/in/gwena%C3%ABlle-gustin-09a228194/)
 <!--
 **gwenaellegustin/gwenaellegustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

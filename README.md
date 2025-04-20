@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 2021 &nbsp; ○ Bachelor loading... <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| HTML/CSS course and JS game project with [Stéphanie Baechler](https://www.linkedin.com/in/stephaniebaechler) and [Antony Marques](https://www.linkedin.com/in/antonymarques): <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you can check [our game](https://6242ria.z22.web.core.windows.net/letsDrop.html) and [our website](https://6242ria.z22.web.core.windows.net/) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you can check [our game](https://letsdrop.gwengustin.ch/letsDrop.html) and [our website](https://letsdrop.gwengustin.ch/) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <br/>
 2020 &nbsp; ○ Bachelor loading... <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <br/>
